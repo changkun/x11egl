@@ -1,2 +1,1 @@
-# x11egl
-minimum viable snippet to use egl in x11
+This is a minimum viable [snippet](./main.c) to use egl in x11
